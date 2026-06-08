@@ -1,8 +1,8 @@
 # Daniel Hara
 
-Python Backend Developer focused on building APIs, data-driven systems, automation tools and fullstack products.
+Python Backend Developer focused on building APIs, data-driven systems, automation tools and full-stack products.
 
-I have a background in Electronic Engineering and experience with automation, embedded systems and software development. My current focus is backend development with Python, FastAPI, PostgreSQL, Docker, testing and clean project structure.
+I have a background in Mechatronic Engineering and experience with automation, embedded systems and software development. My current focus is backend development with Python, FastAPI, PostgreSQL, Docker, testing and clean project structure.
 
 ## Main focus
 
@@ -18,11 +18,11 @@ I have a background in Electronic Engineering and experience with automation, em
 
 ### KanbanCore API
 
-REST API for project and task management, built with FastAPI, PostgreSQL, JWT authentication, Docker, tests and CI.
+REST API for project and task management, built with FastAPI, PostgreSQL, JWT authentication, Docker, automated tests and CI.
 
 **Main technologies:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, pytest, Ruff, GitHub Actions.
 
-Repository: [kanbancore-api](https://github.com/dmhara812/kanbancore-api)
+**Repository:** [kanbancore-api](https://github.com/dmhara812/kanbancore-api)
 
 ---
 
@@ -34,7 +34,7 @@ The project is currently in development. The backend is being built first, with 
 
 **Main technologies:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, pytest, Ruff.
 
-Repository: [organizador-financeiro](https://github.com/dmhara812/organizador-financeiro)
+**Repository:**[organizador-financeiro](https://github.com/dmhara812/organizador-financeiro)
 
 ---
 
@@ -44,7 +44,7 @@ Voice-based assistant for English conversation practice, using AI to correct sen
 
 **Main technologies:** Python, OpenAI API, audio transcription, SQLite, Pydantic, pytest, Ruff.
 
-Repository: [english-voice-coach](https://github.com/dmhara812/english-voice-coach)
+**Repository:** [english-voice-coach](https://github.com/dmhara812/english-voice-coach)
 
 ## Next project
 
@@ -54,15 +54,11 @@ The goal is to build a backend service that consumes public APIs, processes and 
 
 ## Tech stack
 
-```text
-Python
-FastAPI
-PostgreSQL
-SQLAlchemy
-Alembic
-Docker
-pytest
-Ruff
-GitHub Actions
-REST APIs
-Automation
+## Tech stack
+
+**Backend:** Python, FastAPI, SQLAlchemy, Alembic  
+**Database:** PostgreSQL, SQLite  
+**DevOps:** Docker, GitHub Actions  
+**Testing:** pytest  
+**Code quality:** Ruff  
+**Other:** REST APIs, automation, API integrations
